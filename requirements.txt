@@ -1,0 +1,22 @@
+
+# Core application
+streamlit
+
+# Data processing
+numpy
+pandas
+Pillow
+
+# AI and deep learning
+tensorflow
+
+# Model evaluation
+scikit-learn
+matplotlib
+seaborn
+
+# Image processing
+opencv-python
+
+# Utilities
+tqdm
